@@ -57,8 +57,10 @@ I am a results-driven **MCA Graduate** transitionining into professional softwar
 
 ## 📈 Engineering Metrics
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mharsh181&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharsh181&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mharsh181&theme=tokyonight" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mharsh181&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mharsh181&theme=tokyonight" />
 </p>
 
 ---
