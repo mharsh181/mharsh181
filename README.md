@@ -1,77 +1,122 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=45&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Harsh+Mishra;Python+Developer;AI%2FML+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Harsh+Mishra;Python+%26+ML+Engineer;Backend+Developer;AI+%2F+Computer+Vision+Enthusiast" alt="Typing SVG" />
 </p>
 
-<div align="center">
-  <h3> 👨‍💻 Aspiring Software Architect | Python Ecosystem Specialist </h3>
+<p align="center">
+  <a href="https://linkedin.com/in/harshmishra95"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mharsh181@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/mharsh181"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://mharsh181.github.io/portfolio"><img src="https://img.shields.io/badge/Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harshmishra95)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mharsh181@gmail.com)
-  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mharsh181)
-</div>
-
----
-
-## 🧑‍💻 Technical Persona
-I am a results-driven **MCA Graduate** transitionining into professional software development. I specialize in the **Python Ecosystem**, building robust web applications and exploring the intersection of **Web Dev and AI/ML**. I thrive in environments that challenge my problem-solving skills and allow me to build scalable, user-centric software.
-
-- 🚀 **Mission:** Engineering clean, efficient, and well-documented code.
-- 🛠️ **Skills:** Deep-diving into **Django**, **FastAPI**, and **ML Pipelines**.
-- 💡 **Philosophy:** "Code is for humans to read, and only incidentally for machines to execute."
-- 🔭 **Current Focus:** Building production-ready APIs with FastAPI & Django.
-- 📚 **Learning Path:** System Design and Asynchronous Programming in Python.
-- 🎯 **Goal:** Contributing to open-source and securing a challenging SDE role.
-- ⚡ **Fun Fact:** I enjoy optimizing code performance as much as building new features.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mharsh181&label=Profile+Views&color=00d4ff&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🛠️ The Stack
+## 🧑‍💻 About Me
 
-### 🐍 The Python Web Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+> *"Clean code always looks like it was written by someone who cares."* — Robert C. Martin
+
+I'm a results-driven **MCA candidate** at Guru Ghasidas Vishwavidyalaya, specializing in **Python-based software development** and **machine learning applications**. I build RESTful APIs, backend systems, and data-driven ML solutions with a focus on clean, scalable, and maintainable code.
+
+```python
+class HarshMishra:
+    def __init__(self):
+        self.name       = "Harsh Mishra"
+        self.role       = "Python & ML Engineer"
+        self.location   = "Bilaspur, Chhattisgarh, India"
+        self.education  = "MCA @ GGV (2024–2026)"
+        self.focus      = ["FastAPI", "Django", "Deep Learning", "Computer Vision"]
+        self.mission    = "Engineering clean, efficient, and well-documented software."
+
+    def currently(self):
+        return {
+            "building"  : "Production-ready APIs with FastAPI & Django",
+            "learning"  : "System Design & Async Python",
+            "goal"      : "Securing a challenging SDE / ML Engineer role",
+        }
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 🐍 Languages & Backend
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005850?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🌐 Frontend & UI
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🤖 Machine Learning & AI
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### 📊 Data Science & AI
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧰 Infrastructure & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📈 Engineering Metrics
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🖼️ **Image Captioning System** | Encoder–decoder captioning with YOLOv8 object detection, VGG16 features & Beam Search. ~40% context improvement. | Python · Deep Learning · YOLOv8 · VGG16 |
+| 🌤️ **Weather Prediction** | Regression ML model on 100K+ records to predict temperature, humidity & rainfall; Streamlit UI. | Python · scikit-learn · Streamlit |
+| 🎯 **Real-Time Object Detection** | YOLOv5 + PyTorch live detection from webcam with bounding boxes and confidence scoring. | YOLOv5 · PyTorch · OpenCV |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mharsh181&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mharsh181&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mharsh181&theme=tokyonight&hide_border=true" />
+</p>
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mharsh181&theme=tokyonight" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mharsh181&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mharsh181&theme=tokyonight" />
 </p>
+
+---
+
+## 🏅 Certifications
+
+- 🧠 **Machine Learning for Data Science Projects** — IBM Skills Build *(Feb 2025)*
+- ☁️ **Data Transformation with Google Cloud** — Google Cloud Training *(Oct 2024)*
+- 🐍 **Python & Ethical Hacking From Scratch** — Udemy / Zaid Sabih *(July 2025)*
 
 ---
 
 ## 🎯 Let's Connect
-I am actively looking for **Software Developer Internships** and **Entry-level roles**. If you are looking for a dedicated developer who loves Python and solving complex problems, let’s talk!
 
-- 📫 Reach me at: [Email](mharsh181@gmail.com)
-- 💬 Or DM me on [LinkedIn](https://linkedin.com/in/harshmishra95)
-
+I'm actively looking for **Software Developer Internships** and **Entry-level SDE / ML Engineer roles**. If you're looking for a dedicated developer who loves Python and solving complex problems — let's talk!
 
 <p align="center">
-  <i>"Clean code always looks like it was written by someone who cares." — Robert C. Martin</i>
+  <a href="https://linkedin.com/in/harshmishra95"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  &nbsp;
+  <a href="mailto:mharsh181@gmail.com"><img src="https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  &nbsp;
+  <a href="https://mharsh181.github.io/portfolio"><img src="https://img.shields.io/badge/View_Portfolio-00D4FF?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>⭐ If you like my work, consider giving a star to my repositories!</i>
 </p>
